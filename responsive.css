@@ -1,0 +1,49 @@
+@media only screen and (max-width:1230px){
+  
+  
+
+   .navbar{
+     flex-wrap: wrap;
+   
+   }
+
+ 
+
+  .primary{
+      flex-wrap: wrap;
+     padding: 11px 45px;
+  }
+
+  .odd{
+      flex-wrap: wrap;
+      margin: 2px 14px;
+      padding: 23px;
+  }
+  .search{
+      flex-wrap: wrap;
+      text-align: center;
+  }
+
+  .on{
+      flex-wrap: wrap;
+  }
+  .container{
+   display: flex;
+  }
+
+
+.row{
+    flex-direction: column;
+}
+ .cont{
+    display: flex;
+ }
+.cont img{
+    height: 323px;
+}
+ .right-nav img{
+     height: 67px ;
+     width: 150px;
+ }
+
+}
